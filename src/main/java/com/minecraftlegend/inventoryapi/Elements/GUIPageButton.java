@@ -12,8 +12,8 @@ import org.bukkit.inventory.ItemStack;
 import java.util.HashMap;
 
 /**
- * <h1>InventoryAPI</h1>
- * The Message enum for translation.
+ * <h1>GUIPageButton</h1>
+ * A GUIPageButton which navigates to a given url on click event.
  *
  * @author Juyas, Drayke
  * @version 1.0
